@@ -278,7 +278,7 @@ MIT License — use freely, credit appreciated.
 
 ## 👨‍💻 About
 
-Built by **[Varshan](https://github.com/VARSHAN69)** — 1st year CSE + AI/ML student, building tools while preparing for NEET 2026.
+Built by **[Varshan](https://github.com/varshuai)** 
 
 > *"The best way to learn is to build."*
 
