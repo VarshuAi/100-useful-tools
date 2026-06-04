@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tools](https://img.shields.io/badge/Tools-100-00D084?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMiA5VjdoLTJWNWMwLTEuMS0uOS0yLTItMkg0Yy0xLjEgMC0yIC45LTIgMnYxNGMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0ydi0yaDJWOWgtMlptLTIgMTBINFY1aDE2djE0ek02IDEzaDJ2Mmgteno\
 iTTEwIDEzaDJ2Mmgteno\niTMgMTNoMnYyaC0yeiIvPjwvc3ZnPg==)
-![Stars](https://img.shields.io/github/stars/VARSHAN69/100-useful-tools?style=for-the-badge&color=FFD700)
+![Stars](https://img.shields.io/github/stars/VarshuAi/100-useful-tools?style=for-the-badge&color=FFD700)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 ![NEET](https://img.shields.io/badge/NEET%202026-June%2021-FF4500?style=for-the-badge&logo=target)
 
@@ -34,7 +34,7 @@ A collection of **100 standalone Python CLI tools** covering:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/VARSHAN69/100-useful-tools.git
+git clone https://github.com/VarshuAi/100-useful-tools.git
 cd 100-useful-tools
 ```
 
